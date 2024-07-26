@@ -1,0 +1,12 @@
+.container1 {
+    padding: 50px;
+}
+
+#Searchinput {
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.DataTable {
+    /* border: 2px solid rgb(0, 0, 0); */
+}

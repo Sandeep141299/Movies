@@ -1,0 +1,17 @@
+#dashboard {
+    margin: 20px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#h1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#line-chart {
+    text-align: left;
+    margin-top: 20px;
+}

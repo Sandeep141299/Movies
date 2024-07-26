@@ -1,0 +1,28 @@
+/* Hide the carousel text when the screen is less than 600 pixels wide */
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+}
+
+#row {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#moviecard {
+    margin-left: 50px;
+}
+
+#Aboutus-mission {
+    margin: 50px;
+    text-align: left;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
